@@ -1,6 +1,6 @@
 {
   "name": "cdp-web",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides a lightweight way to communicate with the Chrome DevTools Protocol (CDP).",
   "repository": "https://github.com/tscpp/cdp-web",
   "license": "UNLICENSED",

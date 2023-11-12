@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Provides a lightweight way to communicate with the Chrome DevTools Protocol (CDP).",
   "repository": "https://github.com/tscpp/cdp-web",
+  "license": "UNLICENSED",
   "type": "module",
   "module": "dist/index.js",
   "browser": "dist/browser.js",
